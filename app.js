@@ -174,4 +174,15 @@ function internInformation() {
     });
 }
 
+//write file
+function generateHTML(fileName, data) {
+  fs.writeFile(fileName, data, "utf8", function (err) {
+    if (err) {
+      throw err;
+    }
+    console.log("You have sucessfully written your Employee Summary");
+  });
+}
+
+//Call to start the employee role choice
 employeeInformation();
