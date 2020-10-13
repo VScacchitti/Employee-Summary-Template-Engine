@@ -4,9 +4,11 @@
   This Node.js CLI allows the user to chose an employee role and populate pre-determined criteria resulting in the output of an HTML page of the team summary.
   
   Command Line
+  
   ![Screen Shot 2020-10-13 at 1 40 53 PM](https://user-images.githubusercontent.com/67161794/95897151-0ca11380-0d5b-11eb-808f-f5549139cbf6.png)
   
   Output
+  
   ![Screen Shot 2020-10-13 at 1 41 29 PM](https://user-images.githubusercontent.com/67161794/95897202-25a9c480-0d5b-11eb-8854-a2b054a8c667.png)
 
   Video Demonstration: https://drive.google.com/file/d/1jDXvax8iH4uxVZwmTTVAxpWfbqcBUPBU/view
