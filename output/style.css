@@ -1,0 +1,22 @@
+body {
+  background-image: url(https://th.bing.com/th/id/OIP.WktJxCHbbVbGxHI_vgZxQwHaE8?w=258&h=180&c=7&o=5&dpr=2&pid=1.7);
+  background-size: cover;
+  opacity: 85%;
+}
+
+.employee-card {
+  margin-right: 15px;
+  margin-left: 15px;
+  margin-top: 60px;
+}
+
+h1 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-weight: bolder;
+  background-color: #659cbc;
+  color: azure;
+}
+
+.team-heading {
+  background-color: #659cbc;
+}
